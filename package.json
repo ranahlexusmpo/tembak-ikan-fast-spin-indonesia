@@ -1,0 +1,24 @@
+{
+  "name": "tembak-ikan-fast-spin-terpercaya",
+  "main": "tembak-fastspin",
+  "theme": "ui",
+  "version": "1.36.1",
+  "description": "LEXUSMPO || Mpo Slot Tembak Ikan Fast spin Terpercaya Indonesia",
+  "keywords": [
+    "tembak ikan fast spin ",
+    "tembak ikan ",
+    "tembak ikan fast spin ovo",
+    "tembak ikan fast spin dana",
+    "tembak ikan fast spin gopay",
+    "tembak ikan fast spin pulsa",
+    "fast spin"
+  ],
+  "activationCommands": {
+    "atom-workspace": "fast-spin-terpercaya:toggle"
+  },
+  "repository": "https://github.com/ranahlexusmpo/tembak-ikan-fast-spin-indonesia.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
